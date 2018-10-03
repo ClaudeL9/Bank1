@@ -11,8 +11,8 @@ int main()
 {
 unsigned short int checks;
 int balance;
-
-
+int const CHARGES = 10;
+int const EXTRA = 15;
 
 
 
